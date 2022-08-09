@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Himanshu Shahu
-- 👀 I’m interested in Competetive Coding and Solving DSA Problem.
+- 👀 I’m interested in Competitive Coding and Solving DSA Problem.
 - 🌱 I’m currently learning Flutter,Android Development.
 
 <!---
