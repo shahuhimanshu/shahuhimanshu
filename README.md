@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himanshu Shahu
 - 👀 I’m interested in Competitive Coding and Solving DSA Problem.
-- 🌱 I’m currently learning Flutter,Android Development.
+- 🌱 I’m currently learning Android Development.
 
 <!---
 shahuhimanshu/shahuhimanshu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
